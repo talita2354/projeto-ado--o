@@ -1,0 +1,87 @@
+body{
+    background-image: url(./img/fundo6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.logo2{
+    display: flex;
+}
+.logo{
+  width:5%;
+  border-radius: 50%;
+  display: flex;
+  margin-left: 1%;
+}
+.topo{
+    display: flex;
+    align-items: center;
+   
+}
+.inicio{
+    
+    justify-content: center;
+    width: 30%;
+    margin-top: 10%;
+    text-align: center;
+     margin-left: 10%;
+    font-size: 1vw;
+}
+tex1{
+    margin-top: 10%;
+    width: 20%;
+    
+}
+.foto {
+    display: flex;
+    width: 20%;
+    margin-top: 9%;
+   border-radius: 50%;
+   margin-left: 5%;
+    
+    
+
+}
+
+.amostra{
+    width: 40%;
+    margin-left: 30%;}
+
+    .baixo{
+        margin-top: 10%;
+        width: 80%;
+        object-position: center;
+        display: flex;
+    }
+    
+    .baixo2{
+        margin-top: 5%;
+        width: 80%;
+        object-position: center;
+        display: flex;
+
+    }
+    footer {
+        background-color: #0a4f18;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+        margin-top: 50px;
+        
+    }
+    
+    footer ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+  footer li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+    
+    footer a {
+        color: #fff;
+        text-decoration: none;
+    }
